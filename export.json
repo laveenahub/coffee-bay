@@ -1,0 +1,1192 @@
+{
+  "filename": "Coffee.pdf",
+  "page_data": [
+    {
+      "page": 0,
+      "image_url": "https://nnts.imgix.net/uploadedfiles/rawocr/fb4ce9a2-c398-411d-919c-54307f1c55d0-1.jpeg?auto=compress&expires=1717665994&or=0&s=a81c85bb7c4c33cd11800e2f938fb36b",
+      "size": {
+        "width": 9999,
+        "height": 4992
+      },
+      "words": [
+        {
+          "text": "OTP",
+          "xmin": 1768,
+          "ymin": 1342,
+          "xmax": 1854,
+          "ymax": 1369
+        },
+        {
+          "text": "Verification",
+          "xmin": 1875,
+          "ymin": 1339,
+          "xmax": 2151,
+          "ymax": 1377
+        },
+        {
+          "text": "OT",
+          "xmin": 2493,
+          "ymin": 1342,
+          "xmax": 2580,
+          "ymax": 1369
+        },
+        {
+          "text": "Verification",
+          "xmin": 2573,
+          "ymin": 1339,
+          "xmax": 2870,
+          "ymax": 1377
+        },
+        {
+          "text": "O",
+          "xmin": 3247,
+          "ymin": 1326,
+          "xmax": 3294,
+          "ymax": 1369
+        },
+        {
+          "text": "ThadiMarke",
+          "xmin": 3309,
+          "ymin": 1326,
+          "xmax": 3471,
+          "ymax": 1377
+        },
+        {
+          "text": "nsarovar",
+          "xmin": 3498,
+          "ymin": 1367,
+          "xmax": 3579,
+          "ymax": 1379
+        },
+        {
+          "text": "ciou",
+          "xmin": 3591,
+          "ymin": 1364,
+          "xmax": 3643,
+          "ymax": 1377
+        },
+        {
+          "text": "OE",
+          "xmin": 3722,
+          "ymin": 1331,
+          "xmax": 3822,
+          "ymax": 1377
+        },
+        {
+          "text": "Q",
+          "xmin": 3254,
+          "ymin": 1416,
+          "xmax": 3300,
+          "ymax": 1472
+        },
+        {
+          "text": "Seare",
+          "xmin": 3316,
+          "ymin": 1439,
+          "xmax": 3379,
+          "ymax": 1451
+        },
+        {
+          "text": "ustronacoffe",
+          "xmin": 3401,
+          "ymin": 1438,
+          "xmax": 3545,
+          "ymax": 1451
+        },
+        {
+          "text": "ekide",
+          "xmin": 3546,
+          "ymin": 1438,
+          "xmax": 3608,
+          "ymax": 1451
+        },
+        {
+          "text": "mileci",
+          "xmin": 3609,
+          "ymin": 1438,
+          "xmax": 3709,
+          "ymax": 1451
+        },
+        {
+          "text": "|",
+          "xmin": 3754,
+          "ymin": 1431,
+          "xmax": 3793,
+          "ymax": 1451
+        },
+        {
+          "text": "Starbucks",
+          "xmin": 4069,
+          "ymin": 1440,
+          "xmax": 4268,
+          "ymax": 1470
+        },
+        {
+          "text": "Coffee",
+          "xmin": 4283,
+          "ymin": 1439,
+          "xmax": 4408,
+          "ymax": 1470
+        },
+        {
+          "text": "Wehave",
+          "xmin": 1725,
+          "ymin": 1472,
+          "xmax": 1842,
+          "ymax": 1491
+        },
+        {
+          "text": "sentaverificationcode",
+          "xmin": 1843,
+          "ymin": 1471,
+          "xmax": 2217,
+          "ymax": 1491
+        },
+        {
+          "text": "Wehave",
+          "xmin": 2450,
+          "ymin": 1472,
+          "xmax": 2569,
+          "ymax": 1491
+        },
+        {
+          "text": "sen",
+          "xmin": 2577,
+          "ymin": 1478,
+          "xmax": 2637,
+          "ymax": 1491
+        },
+        {
+          "text": "averificationcode",
+          "xmin": 2658,
+          "ymin": 1471,
+          "xmax": 2924,
+          "ymax": 1494
+        },
+        {
+          "text": "CoFFee",
+          "xmin": 923,
+          "ymin": 1494,
+          "xmax": 1143,
+          "ymax": 1534
+        },
+        {
+          "text": "BaY",
+          "xmin": 1198,
+          "ymin": 1494,
+          "xmax": 1305,
+          "ymax": 1534
+        },
+        {
+          "text": "eraae",
+          "xmin": 4210,
+          "ymin": 1496,
+          "xmax": 4256,
+          "ymax": 1506
+        },
+        {
+          "text": "Desser",
+          "xmin": 4303,
+          "ymin": 1493,
+          "xmax": 4365,
+          "ymax": 1506
+        },
+        {
+          "text": "401-787*****Q",
+          "xmin": 1874,
+          "ymin": 1516,
+          "xmax": 2092,
+          "ymax": 1530
+        },
+        {
+          "text": "91-787******",
+          "xmin": 2601,
+          "ymin": 1516,
+          "xmax": 2819,
+          "ymax": 1530
+        },
+        {
+          "text": "I",
+          "xmin": 839,
+          "ymin": 1536,
+          "xmax": 885,
+          "ymax": 1588
+        },
+        {
+          "text": "Toda",
+          "xmin": 3619,
+          "ymin": 1535,
+          "xmax": 3670,
+          "ymax": 1545
+        },
+        {
+          "text": "42",
+          "xmin": 4132,
+          "ymin": 1538,
+          "xmax": 4186,
+          "ymax": 1561
+        },
+        {
+          "text": "eviews",
+          "xmin": 4276,
+          "ymin": 1547,
+          "xmax": 4346,
+          "ymax": 1565
+        },
+        {
+          "text": "Coffe",
+          "xmin": 3296,
+          "ymin": 1582,
+          "xmax": 3358,
+          "ymax": 1600
+        },
+        {
+          "text": "\"LATTE",
+          "xmin": 3359,
+          "ymin": 1584,
+          "xmax": 3466,
+          "ymax": 1600
+        },
+        {
+          "text": "000000",
+          "xmin": 1732,
+          "ymin": 1603,
+          "xmax": 2244,
+          "ymax": 1688
+        },
+        {
+          "text": "666666",
+          "xmin": 2460,
+          "ymin": 1603,
+          "xmax": 2951,
+          "ymax": 1678
+        },
+        {
+          "text": "(Itlatia",
+          "xmin": 3421,
+          "ymin": 1614,
+          "xmax": 3489,
+          "ymax": 1631
+        },
+        {
+          "text": "20-25min",
+          "xmin": 4042,
+          "ymin": 1598,
+          "xmax": 4166,
+          "ymax": 1635
+        },
+        {
+          "text": "MalvivaNagar",
+          "xmin": 4292,
+          "ymin": 1598,
+          "xmax": 4463,
+          "ymax": 1635
+        },
+        {
+          "text": "Whe",
+          "xmin": 3431,
+          "ymin": 1697,
+          "xmax": 3490,
+          "ymax": 1709
+        },
+        {
+          "text": "vou",
+          "xmin": 3526,
+          "ymin": 1702,
+          "xmax": 3576,
+          "ymax": 1709
+        },
+        {
+          "text": "mood",
+          "xmin": 3577,
+          "ymin": 1697,
+          "xmax": 3662,
+          "ymax": 1716
+        },
+        {
+          "text": "lav",
+          "xmin": 4256,
+          "ymin": 1772,
+          "xmax": 4311,
+          "ymax": 1787
+        },
+        {
+          "text": "|",
+          "xmin": 2109,
+          "ymin": 1789,
+          "xmax": 2139,
+          "ymax": 1793
+        },
+        {
+          "text": "ResendsMSin",
+          "xmin": 1893,
+          "ymin": 1810,
+          "xmax": 2076,
+          "ymax": 1826
+        },
+        {
+          "text": "(",
+          "xmin": 2547,
+          "ymin": 1789,
+          "xmax": 2569,
+          "ymax": 1834
+        },
+        {
+          "text": "endSMSin",
+          "xmin": 2663,
+          "ymin": 1810,
+          "xmax": 2803,
+          "ymax": 1826
+        },
+        {
+          "text": "|",
+          "xmin": 2831,
+          "ymin": 1789,
+          "xmax": 2869,
+          "ymax": 1846
+        },
+        {
+          "text": "Frappuccino",
+          "xmin": 4247,
+          "ymin": 1820,
+          "xmax": 4443,
+          "ymax": 1842
+        },
+        {
+          "text": "American",
+          "xmin": 3293,
+          "ymin": 1857,
+          "xmax": 3412,
+          "ymax": 1873
+        },
+        {
+          "text": "Espress",
+          "xmin": 3497,
+          "ymin": 1860,
+          "xmax": 3600,
+          "ymax": 1873
+        },
+        {
+          "text": "Gala",
+          "xmin": 3687,
+          "ymin": 1839,
+          "xmax": 3752,
+          "ymax": 1877
+        },
+        {
+          "text": "Indig's#",
+          "xmin": 890,
+          "ymin": 2011,
+          "xmax": 1054,
+          "ymax": 2039
+        },
+        {
+          "text": "1CoffeeDeliver",
+          "xmin": 1054,
+          "ymin": 2011,
+          "xmax": 1342,
+          "ymax": 2037
+        },
+        {
+          "text": "CoFFee",
+          "xmin": 88,
+          "ymin": 2094,
+          "xmax": 357,
+          "ymax": 2145
+        },
+        {
+          "text": "BaY",
+          "xmin": 419,
+          "ymin": 2094,
+          "xmax": 545,
+          "ymax": 2145
+        },
+        {
+          "text": "adDiningApp",
+          "xmin": 984,
+          "ymin": 2065,
+          "xmax": 1260,
+          "ymax": 2096
+        },
+        {
+          "text": "signup",
+          "xmin": 1132,
+          "ymin": 2148,
+          "xmax": 1217,
+          "ymax": 2170
+        },
+        {
+          "text": "Lifebannens",
+          "xmin": 108,
+          "ymin": 2170,
+          "xmax": 295,
+          "ymax": 2186
+        },
+        {
+          "text": "Coffeehelps",
+          "xmin": 318,
+          "ymin": 2170,
+          "xmax": 522,
+          "ymax": 2194
+        },
+        {
+          "text": "E",
+          "xmin": 910,
+          "ymin": 2208,
+          "xmax": 955,
+          "ymax": 2260
+        },
+        {
+          "text": "(",
+          "xmin": 940,
+          "ymin": 2208,
+          "xmax": 1015,
+          "ymax": 2265
+        },
+        {
+          "text": "91Ent",
+          "xmin": 1020,
+          "ymin": 2228,
+          "xmax": 1108,
+          "ymax": 2240
+        },
+        {
+          "text": "PhoneNumb",
+          "xmin": 1120,
+          "ymin": 2208,
+          "xmax": 1284,
+          "ymax": 2246
+        },
+        {
+          "text": "Continue",
+          "xmin": 1027,
+          "ymin": 2293,
+          "xmax": 1190,
+          "ymax": 2331
+        },
+        {
+          "text": "A",
+          "xmin": 1694,
+          "ymin": 2108,
+          "xmax": 2282,
+          "ymax": 2487
+        },
+        {
+          "text": ":",
+          "xmin": 2419,
+          "ymin": 2108,
+          "xmax": 3007,
+          "ymax": 2487
+        },
+        {
+          "text": "NearbyCafes",
+          "xmin": 3469,
+          "ymin": 2107,
+          "xmax": 3631,
+          "ymax": 2123
+        },
+        {
+          "text": "G",
+          "xmin": 1042,
+          "ymin": 2392,
+          "xmax": 1088,
+          "ymax": 2432
+        },
+        {
+          "text": "Titenate",
+          "xmin": 3492,
+          "ymin": 2355,
+          "xmax": 3596,
+          "ymax": 2397
+        },
+        {
+          "text": "NothingBeto",
+          "xmin": 3687,
+          "ymin": 2360,
+          "xmax": 3807,
+          "ymax": 2401
+        },
+        {
+          "text": "J",
+          "xmin": 3297,
+          "ymin": 2440,
+          "xmax": 3346,
+          "ymax": 2479
+        },
+        {
+          "text": "Deliver",
+          "xmin": 3372,
+          "ymin": 2451,
+          "xmax": 3499,
+          "ymax": 2477
+        },
+        {
+          "text": "|",
+          "xmin": 3594,
+          "ymin": 2438,
+          "xmax": 3619,
+          "ymax": 2479
+        },
+        {
+          "text": "Dining",
+          "xmin": 3652,
+          "ymin": 2452,
+          "xmax": 3752,
+          "ymax": 2479
+        },
+        {
+          "text": "Select",
+          "xmin": 1198,
+          "ymin": 3815,
+          "xmax": 1359,
+          "ymax": 3846
+        },
+        {
+          "text": "Language",
+          "xmin": 1375,
+          "ymin": 3817,
+          "xmax": 1636,
+          "ymax": 3867
+        },
+        {
+          "text": "SelectLanguage",
+          "xmin": 2740,
+          "ymin": 3815,
+          "xmax": 3174,
+          "ymax": 3854
+        },
+        {
+          "text": "SelectLanguage",
+          "xmin": 4169,
+          "ymin": 3786,
+          "xmax": 4604,
+          "ymax": 3830
+        },
+        {
+          "text": "SelectLanguage",
+          "xmin": 5582,
+          "ymin": 3786,
+          "xmax": 6017,
+          "ymax": 3830
+        },
+        {
+          "text": "Select",
+          "xmin": 7111,
+          "ymin": 3786,
+          "xmax": 7267,
+          "ymax": 3822
+        },
+        {
+          "text": "Language",
+          "xmin": 7287,
+          "ymin": 3788,
+          "xmax": 7549,
+          "ymax": 3830
+        },
+        {
+          "text": "Select",
+          "xmin": 8690,
+          "ymin": 3786,
+          "xmax": 8845,
+          "ymax": 3822
+        },
+        {
+          "text": "Language",
+          "xmin": 8838,
+          "ymin": 3788,
+          "xmax": 9126,
+          "ymax": 3830
+        },
+        {
+          "text": "Selectone",
+          "xmin": 4169,
+          "ymin": 3883,
+          "xmax": 4369,
+          "ymax": 3908
+        },
+        {
+          "text": "from",
+          "xmin": 4366,
+          "ymin": 3882,
+          "xmax": 4467,
+          "ymax": 3904
+        },
+        {
+          "text": "belov",
+          "xmin": 4491,
+          "ymin": 3883,
+          "xmax": 4596,
+          "ymax": 3908
+        },
+        {
+          "text": "Select",
+          "xmin": 5582,
+          "ymin": 3883,
+          "xmax": 5703,
+          "ymax": 3908
+        },
+        {
+          "text": "onefrom",
+          "xmin": 5713,
+          "ymin": 3882,
+          "xmax": 5885,
+          "ymax": 3908
+        },
+        {
+          "text": "belov",
+          "xmin": 5904,
+          "ymin": 3883,
+          "xmax": 6006,
+          "ymax": 3904
+        },
+        {
+          "text": "Select",
+          "xmin": 7111,
+          "ymin": 3883,
+          "xmax": 7244,
+          "ymax": 3908
+        },
+        {
+          "text": "one",
+          "xmin": 7242,
+          "ymin": 3890,
+          "xmax": 7306,
+          "ymax": 3908
+        },
+        {
+          "text": "from",
+          "xmin": 7315,
+          "ymin": 3882,
+          "xmax": 7408,
+          "ymax": 3908
+        },
+        {
+          "text": "below",
+          "xmin": 7417,
+          "ymin": 3883,
+          "xmax": 7541,
+          "ymax": 3908
+        },
+        {
+          "text": "Select",
+          "xmin": 8690,
+          "ymin": 3883,
+          "xmax": 8811,
+          "ymax": 3908
+        },
+        {
+          "text": "one",
+          "xmin": 8821,
+          "ymin": 3890,
+          "xmax": 8895,
+          "ymax": 3908
+        },
+        {
+          "text": "frombeloy",
+          "xmin": 8904,
+          "ymin": 3882,
+          "xmax": 9115,
+          "ymax": 3904
+        },
+        {
+          "text": "Select",
+          "xmin": 1198,
+          "ymin": 3913,
+          "xmax": 1319,
+          "ymax": 3936
+        },
+        {
+          "text": "one",
+          "xmin": 1329,
+          "ymin": 3920,
+          "xmax": 1403,
+          "ymax": 3940
+        },
+        {
+          "text": "frombelow",
+          "xmin": 1402,
+          "ymin": 3911,
+          "xmax": 1627,
+          "ymax": 3940
+        },
+        {
+          "text": "Select",
+          "xmin": 2740,
+          "ymin": 3913,
+          "xmax": 2861,
+          "ymax": 3940
+        },
+        {
+          "text": "onefrom",
+          "xmin": 2871,
+          "ymin": 3911,
+          "xmax": 3041,
+          "ymax": 3940
+        },
+        {
+          "text": "belov",
+          "xmin": 3061,
+          "ymin": 3913,
+          "xmax": 3162,
+          "ymax": 3936
+        },
+        {
+          "text": "Enalish",
+          "xmin": 4144,
+          "ymin": 4062,
+          "xmax": 4260,
+          "ymax": 4088
+        },
+        {
+          "text": "Hind",
+          "xmin": 4455,
+          "ymin": 4062,
+          "xmax": 4529,
+          "ymax": 4084
+        },
+        {
+          "text": "Enalish",
+          "xmin": 5557,
+          "ymin": 4062,
+          "xmax": 5666,
+          "ymax": 4088
+        },
+        {
+          "text": "Hinc",
+          "xmin": 5869,
+          "ymin": 4062,
+          "xmax": 5935,
+          "ymax": 4084
+        },
+        {
+          "text": "Enalish",
+          "xmin": 7086,
+          "ymin": 4062,
+          "xmax": 7193,
+          "ymax": 4084
+        },
+        {
+          "text": "Hind",
+          "xmin": 7397,
+          "ymin": 4062,
+          "xmax": 7471,
+          "ymax": 4084
+        },
+        {
+          "text": "Enalish",
+          "xmin": 8665,
+          "ymin": 4062,
+          "xmax": 8771,
+          "ymax": 4084
+        },
+        {
+          "text": "Hind",
+          "xmin": 8977,
+          "ymin": 4062,
+          "xmax": 9050,
+          "ymax": 4084
+        },
+        {
+          "text": "English",
+          "xmin": 1173,
+          "ymin": 4092,
+          "xmax": 1282,
+          "ymax": 4121
+        },
+        {
+          "text": "Hindi",
+          "xmin": 1484,
+          "ymin": 4092,
+          "xmax": 1563,
+          "ymax": 4116
+        },
+        {
+          "text": "Enalish",
+          "xmin": 2715,
+          "ymin": 4092,
+          "xmax": 2822,
+          "ymax": 4119
+        },
+        {
+          "text": "uind",
+          "xmin": 3026,
+          "ymin": 4092,
+          "xmax": 3100,
+          "ymax": 4107
+        },
+        {
+          "text": "But",
+          "xmin": 3505,
+          "ymin": 4268,
+          "xmax": 3565,
+          "ymax": 4291
+        },
+        {
+          "text": "first",
+          "xmin": 3600,
+          "ymin": 4267,
+          "xmax": 3705,
+          "ymax": 4291
+        },
+        {
+          "text": "coffe",
+          "xmin": 3741,
+          "ymin": 4268,
+          "xmax": 3865,
+          "ymax": 4287
+        },
+        {
+          "text": "But",
+          "xmin": 4934,
+          "ymin": 4268,
+          "xmax": 4994,
+          "ymax": 4291
+        },
+        {
+          "text": "first",
+          "xmin": 5030,
+          "ymin": 4267,
+          "xmax": 5135,
+          "ymax": 4291
+        },
+        {
+          "text": "coffes",
+          "xmin": 5170,
+          "ymin": 4268,
+          "xmax": 5299,
+          "ymax": 4291
+        },
+        {
+          "text": "But",
+          "xmin": 6381,
+          "ymin": 4268,
+          "xmax": 6439,
+          "ymax": 4291
+        },
+        {
+          "text": "first",
+          "xmin": 6477,
+          "ymin": 4267,
+          "xmax": 6580,
+          "ymax": 4291
+        },
+        {
+          "text": "coffes",
+          "xmin": 6618,
+          "ymin": 4268,
+          "xmax": 6748,
+          "ymax": 4287
+        },
+        {
+          "text": "But",
+          "xmin": 7961,
+          "ymin": 4268,
+          "xmax": 8013,
+          "ymax": 4287
+        },
+        {
+          "text": "f",
+          "xmin": 8056,
+          "ymin": 4267,
+          "xmax": 8088,
+          "ymax": 4291
+        },
+        {
+          "text": "irst",
+          "xmin": 8085,
+          "ymin": 4267,
+          "xmax": 8162,
+          "ymax": 4287
+        },
+        {
+          "text": "coffe",
+          "xmin": 8197,
+          "ymin": 4268,
+          "xmax": 8326,
+          "ymax": 4287
+        },
+        {
+          "text": "But",
+          "xmin": 9519,
+          "ymin": 4268,
+          "xmax": 9576,
+          "ymax": 4287
+        },
+        {
+          "text": "first",
+          "xmin": 9614,
+          "ymin": 4267,
+          "xmax": 9720,
+          "ymax": 4291
+        },
+        {
+          "text": "cof",
+          "xmin": 9755,
+          "ymin": 4268,
+          "xmax": 9833,
+          "ymax": 4287
+        },
+        {
+          "text": "Fe",
+          "xmin": 9834,
+          "ymin": 4268,
+          "xmax": 9880,
+          "ymax": 4287
+        },
+        {
+          "text": "But",
+          "xmin": 2018,
+          "ymin": 4298,
+          "xmax": 2076,
+          "ymax": 4318
+        },
+        {
+          "text": "first",
+          "xmin": 2114,
+          "ymin": 4296,
+          "xmax": 2217,
+          "ymax": 4318
+        },
+        {
+          "text": "coffes",
+          "xmin": 2255,
+          "ymin": 4298,
+          "xmax": 2385,
+          "ymax": 4322
+        },
+        {
+          "text": "Duniah",
+          "xmin": 4141,
+          "ymin": 4309,
+          "xmax": 4256,
+          "ymax": 4326
+        },
+        {
+          "text": "Teluqu",
+          "xmin": 4445,
+          "ymin": 4311,
+          "xmax": 4554,
+          "ymax": 4336
+        },
+        {
+          "text": "o",
+          "xmin": 4599,
+          "ymin": 4307,
+          "xmax": 4628,
+          "ymax": 4336
+        },
+        {
+          "text": "Duniah",
+          "xmin": 5554,
+          "ymin": 4309,
+          "xmax": 5662,
+          "ymax": 4326
+        },
+        {
+          "text": "Teluqu",
+          "xmin": 5858,
+          "ymin": 4310,
+          "xmax": 5970,
+          "ymax": 4338
+        },
+        {
+          "text": "Duniah",
+          "xmin": 7083,
+          "ymin": 4309,
+          "xmax": 7201,
+          "ymax": 4326
+        },
+        {
+          "text": "Telug",
+          "xmin": 7386,
+          "ymin": 4310,
+          "xmax": 7484,
+          "ymax": 4338
+        },
+        {
+          "text": "Duniah",
+          "xmin": 8662,
+          "ymin": 4309,
+          "xmax": 8778,
+          "ymax": 4326
+        },
+        {
+          "text": "Telugu",
+          "xmin": 8965,
+          "ymin": 4311,
+          "xmax": 9072,
+          "ymax": 4338
+        },
+        {
+          "text": "Puniabi",
+          "xmin": 1170,
+          "ymin": 4338,
+          "xmax": 1291,
+          "ymax": 4361
+        },
+        {
+          "text": "Telua",
+          "xmin": 1473,
+          "ymin": 4340,
+          "xmax": 1569,
+          "ymax": 4357
+        },
+        {
+          "text": "puniah",
+          "xmin": 2712,
+          "ymin": 4338,
+          "xmax": 2826,
+          "ymax": 4357
+        },
+        {
+          "text": "Telugu",
+          "xmin": 3015,
+          "ymin": 4340,
+          "xmax": 3122,
+          "ymax": 4371
+        },
+        {
+          "text": "Sindhi",
+          "xmin": 4131,
+          "ymin": 4555,
+          "xmax": 4229,
+          "ymax": 4580
+        },
+        {
+          "text": "Tami",
+          "xmin": 4454,
+          "ymin": 4555,
+          "xmax": 4537,
+          "ymax": 4576
+        },
+        {
+          "text": "Sindhi",
+          "xmin": 5544,
+          "ymin": 4555,
+          "xmax": 5642,
+          "ymax": 4580
+        },
+        {
+          "text": "Tami",
+          "xmin": 5868,
+          "ymin": 4555,
+          "xmax": 5955,
+          "ymax": 4580
+        },
+        {
+          "text": "Sindh",
+          "xmin": 7072,
+          "ymin": 4555,
+          "xmax": 7162,
+          "ymax": 4576
+        },
+        {
+          "text": "Tami",
+          "xmin": 7396,
+          "ymin": 4555,
+          "xmax": 7474,
+          "ymax": 4576
+        },
+        {
+          "text": "Sindh",
+          "xmin": 8652,
+          "ymin": 4555,
+          "xmax": 8748,
+          "ymax": 4576
+        },
+        {
+          "text": "o",
+          "xmin": 8817,
+          "ymin": 4553,
+          "xmax": 8845,
+          "ymax": 4580
+        },
+        {
+          "text": "Tamil",
+          "xmin": 8975,
+          "ymin": 4555,
+          "xmax": 9064,
+          "ymax": 4580
+        },
+        {
+          "text": "si",
+          "xmin": 1160,
+          "ymin": 4584,
+          "xmax": 1194,
+          "ymax": 4600
+        },
+        {
+          "text": "ndh",
+          "xmin": 1190,
+          "ymin": 4586,
+          "xmax": 1251,
+          "ymax": 4609
+        },
+        {
+          "text": "Tamil",
+          "xmin": 1483,
+          "ymin": 4584,
+          "xmax": 1576,
+          "ymax": 4611
+        },
+        {
+          "text": "Sindh",
+          "xmin": 2701,
+          "ymin": 4584,
+          "xmax": 2787,
+          "ymax": 4607
+        },
+        {
+          "text": "Tami",
+          "xmin": 3025,
+          "ymin": 4584,
+          "xmax": 3109,
+          "ymax": 4611
+        },
+        {
+          "text": "Proceed",
+          "xmin": 4275,
+          "ymin": 4788,
+          "xmax": 4479,
+          "ymax": 4822
+        },
+        {
+          "text": "Proceed",
+          "xmin": 5686,
+          "ymin": 4788,
+          "xmax": 5892,
+          "ymax": 4822
+        },
+        {
+          "text": "Proceed",
+          "xmin": 7215,
+          "ymin": 4778,
+          "xmax": 7424,
+          "ymax": 4814
+        },
+        {
+          "text": "Proceed",
+          "xmin": 8802,
+          "ymin": 4760,
+          "xmax": 9009,
+          "ymax": 4799
+        },
+        {
+          "text": "Proceed",
+          "xmin": 1302,
+          "ymin": 4817,
+          "xmax": 1510,
+          "ymax": 4853
+        },
+        {
+          "text": "Proceed",
+          "xmin": 2845,
+          "ymin": 4821,
+          "xmax": 3049,
+          "ymax": 4853
+        }
+      ],
+      "raw_text": "OTP Verification OT Verification O ThadiMarke nsarovar ciou OE Q Seare ustronacoffe ekide mileci | Starbucks Coffee Wehave sentaverificationcode Wehave sen averificationcode CoFFee BaY eraae Desser 401-787*****Q 91-787****** I Toda 42 eviews Coffe \"LATTE 000000 666666 (Itlatia 20-25min MalvivaNagar Whe vou mood lav | ResendsMSin ( endSMSin | Frappuccino American Espress Gala Indig's# 1CoffeeDeliver CoFFee BaY adDiningApp signup Lifebannens Coffeehelps E ( 91Ent PhoneNumb Continue A : NearbyCafes G Titenate NothingBeto J Deliver | Dining Select Language SelectLanguage SelectLanguage SelectLanguage Select Language Select Language Selectone from belov Select onefrom belov Select one from below Select one frombeloy Select one frombelow Select onefrom belov Enalish Hind Enalish Hinc Enalish Hind Enalish Hind English Hindi Enalish uind But first coffe But first coffes But first coffes But f irst coffe But first cof Fe But first coffes Duniah Teluqu o Duniah Teluqu Duniah Telug Duniah Telugu Puniabi Telua puniah Telugu Sindhi Tami Sindhi Tami Sindh Tami Sindh o Tamil si ndh Tamil Sindh Tami Proceed Proceed Proceed Proceed Proceed Proceed "
+    }
+  ]
+}
